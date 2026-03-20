@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.1.3
+
+- Fix README badge configuration
+
+## 0.1.2
+
+- Standardize package.json configuration
+
 ## 0.1.1
 
 - Add CI workflow and badges to README
