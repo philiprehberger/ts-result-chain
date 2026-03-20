@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/result-chain.svg)](https://www.npmjs.com/package/@philiprehberger/result-chain)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-result-chain)](LICENSE)
 
-Chainable Result monad for error handling without exceptions.
+Chainable Result monad for error handling without exceptions
 
 ## Requirements
 
@@ -88,4 +88,4 @@ npm test
 
 ## License
 
-[MIT](./LICENSE)
+MIT

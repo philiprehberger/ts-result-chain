@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { ok, err, Ok, Err, Result } from '../dist/index.js';
+import { ok, err, Ok, Err, Result } from '../../dist/index.js';
 
 describe('ok', () => {
   it('creates an Ok result', () => {
