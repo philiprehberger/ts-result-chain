@@ -1,6 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.4
+
+- Standardize README and CHANGELOG formatting
 
 ## 0.1.3
 
@@ -14,9 +16,7 @@ All notable changes to this project will be documented in this file.
 
 - Add CI workflow and badges to README
 
-## [0.1.0] - 2026-03-20
-
-### Added
+## 0.1.0
 
 - `ok(value)` and `err(error)` factory functions
 - `Ok` and `Err` classes with chainable methods

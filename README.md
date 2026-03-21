@@ -6,10 +6,6 @@
 
 Chainable Result monad for error handling without exceptions
 
-## Requirements
-
-- Node.js >= 18
-
 ## Installation
 
 ```bash
@@ -18,7 +14,7 @@ npm install @philiprehberger/result-chain
 
 ## Usage
 
-```typescript
+```ts
 import { ok, err, Result } from '@philiprehberger/result-chain';
 
 // Create results
