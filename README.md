@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-result-chain/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-result-chain/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/result-chain.svg)](https://www.npmjs.com/package/@philiprehberger/result-chain)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-result-chain)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Chainable Result monad for error handling without exceptions
 
