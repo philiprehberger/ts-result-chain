@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/result-chain",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Chainable Result monad for error handling without exceptions",
   "type": "module",
   "main": "./dist/index.cjs",
