@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6
+
+- Fix README GitHub URLs to use correct repo name (ts-result-chain)
+
 ## 0.1.5
 
 - Standardize README to 3-badge format with emoji Support section
